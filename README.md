@@ -10,6 +10,14 @@ activation.jar //Included in lib folder
 mail.jar //Included in lib folder
 
 
+#----How to Install----#
+
+Download all the contents of this project into a folder then run the command prompt inside the folder and type 
+
+java -jar ProxyDeliveryScript.jar
+
+*Do not change folder or file names (Avoid errors)*
+
 #----Notes----#
 
 If you find this script helpful, enjoy! 
