@@ -23,6 +23,8 @@ java -jar ProxyDeliveryScript.jar
 
 If you find this script helpful, enjoy! 
 
+I apologize in advance if I uploaded the files incorrectly to Github im new to github :|
+
 There is a good amount of things I can change to improve this but it works so ¯\_(ツ)_/¯ if anyone would like a private script with more error handling or what not shoot me a DM 
 
 on twitter @h0se_69 or discord h0se_69#4935 and I can help you out
