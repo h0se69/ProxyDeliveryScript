@@ -11,6 +11,8 @@ mail.jar //Included in lib folder
 
 JavaSE-15 
 
+Any IDE that supports Java
+
 #----How to Install----#
 
 Download all the contents of this project into a folder then run the command prompt inside the folder and type 
