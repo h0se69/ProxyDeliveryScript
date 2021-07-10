@@ -10,6 +10,7 @@ activation.jar //Included in lib folder
 mail.jar //Included in lib folder
 
 JavaSE-15 (https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+
 JavaSE-Runtime Enviroment 8 (https://www.oracle.com/it/java/technologies/javase-jre8-downloads.html)
 
 Any IDE that supports Java
